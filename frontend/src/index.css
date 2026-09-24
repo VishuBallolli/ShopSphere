@@ -1,0 +1,5 @@
+:root { --ink: #183b3a; --teal: #236b68; --coral: #c45b45; --yellow: #f4c95d; --peach: #f3d8ca; --cream: #fffaf1; --soft: #f8f4ed; --muted: #6f7773; --line: #e8e3da; --line-dark: #cfc8bc; font-family: 'Trebuchet MS', 'Segoe UI', sans-serif; color: var(--muted); background: var(--cream); font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; }
+button, a { font: inherit; }
